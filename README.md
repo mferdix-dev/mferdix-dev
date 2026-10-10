@@ -5,7 +5,7 @@
 
   <br/><br/>
 
-  # 🎭 Furina de Fontaine | *mferdix-dev* 💧
+  # 🎭 *mferdix-dev* 💧
   
   <p align="center">
     <b>"Let the curtains rise on this glorious performance! The stage is set, and the spotlight shines upon us!"</b>
@@ -34,8 +34,6 @@
 <hr style="border: 1px solid #0077b6;"/>
 
 ## 🌊 ⊰ Act I: The Prologue ⊱
-
-> *"I am Furina, the star of Fontaine's grand stage! Every line of code is a script, and every commit is an applause-worthy scene."*
 
 Halo! Selamat datang di profil GitHub saya (**@mferdix-dev**). Saya seorang developer yang antusias membangun solusi web interaktif, rapi, dan fungsional.
 
